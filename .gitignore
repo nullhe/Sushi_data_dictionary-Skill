@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# .NET build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Temporary and preview outputs
+backup/
+docs/data-dictionary/
+*.tmp
+*.temp
+*.log
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Environment
+.env
+.env.*
+
+# Office lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# OS
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
