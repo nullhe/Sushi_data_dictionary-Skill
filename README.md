@@ -40,8 +40,8 @@ sushi-data-dictionary-skill/
 # 克隆仓库
 git clone https://github.com/hepy/Sushi_data_dictionary-Skill.git
 
-# 复制到 Claude Code skills 目录
-cp -r Sushi_data_dictionary-Skill ~/.claude/skills/db-dict
+# 将 sushi-data-dictionary-skill 复制到 Claude Code skills 目录
+cp -r sushi-data-dictionary-skill ~/.claude/skills/db-dict
 ```
 
 目录结构应为：
