@@ -21,7 +21,6 @@ docs/data-dictionary/
 *.temp
 *.log
 *.pdf
-*.png
 *.jpg
 *.jpeg
 *.webp
